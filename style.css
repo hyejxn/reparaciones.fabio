@@ -6,6 +6,7 @@ header{
     margin:0px;
     padding:20px;
     background-color:#DFE4EF;
+    position:sticky;
 }
 a{
     text-decoration:none;
